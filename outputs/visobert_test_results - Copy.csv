@@ -1,0 +1,2 @@
+﻿,F1 T+L micro,P T+L micro,R T+L micro,F1 Target micro,F1 T+L (paper),F1 Target (paper),Macro-F1 TB 5 target,Toxic F1,Toxic ROC-AUC,Toxic PR-AUC,Recall hate
+visobert,55.67,53.4,58.13,75.01,51.62,71.81,38.09,78.72,85.19,84.18,69.1

@@ -1,0 +1,21 @@
+{
+  "cv_f1_mean": 49.29561130331682,
+  "cv_f1_std": 0.6746816986515007,
+  "best_C": 1.0,
+  "best_class_weight": "balanced",
+  "clean_report": {
+    "train_goc": 7000,
+    "bo_dong_loi": 4,
+    "bo_trung_hoan_toan": 76,
+    "bo_trung_dev_test": 135,
+    "train_con_lai": 6785,
+    "dev": 1201,
+    "test": 1800
+  },
+  "feature_extraction": true,
+  "data_source": "Hugging Face – sonlam1102/vithsd (đã tải về thư mục data/)",
+  "templates": [
+    "nlp-with-transformers/notebooks 02_classification.ipynb",
+    "scikit-learn 1.9.1 examples/text/plot_document_classification_20newsgroups.py"
+  ]
+}

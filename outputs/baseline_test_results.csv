@@ -1,0 +1,5 @@
+﻿,F1 T+L micro,P T+L micro,R T+L micro,F1 Target micro,F1 T+L (paper),F1 Target (paper),Macro-F1 TB 5 target,Toxic F1,Recall hate,Toxic ROC-AUC,Toxic PR-AUC
+Dummy (most_frequent),29.49,34.33,25.85,66.71,28.7,66.38,20.88,0.0,0.0,,
+Dummy (stratified),21.4,21.27,21.54,59.73,20.14,56.0,24.94,55.56,38.54,,
+TF-IDF + LR,51.96,48.84,55.5,73.81,48.51,69.46,42.51,78.65,70.49,85.78,85.51
+ViSoBERT (đặc trưng) + LR,41.62,36.97,47.6,69.12,39.72,65.93,40.9,73.86,66.67,75.47,72.3
