@@ -1,0 +1,11 @@
+# Dữ liệu và mô hình: nặng, tải lại bằng 2_TAI_MO_HINH_GOC.bat
+data/
+models/
+
+# Môi trường ảo và file tạm của Python / Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# File nén
+*.zip
