@@ -79,12 +79,5 @@ Sau bước 2, toàn bộ dự án chạy **offline**. Notebook 02 cần GPU NVI
 
 ## 8. Công cụ AI đã sử dụng
 
-Nhóm sử dụng Claude (Anthropic) để được hướng dẫn cài đặt môi trường, hỗ trợ viết và giải thích code, và soạn bản nháp báo cáo. Nhóm đã tự chạy toàn bộ code trên máy, kiểm tra kết quả và chịu trách nhiệm về nội dung nộp.
+Nhóm sử dụng Claude (Anthropic) để được hướng dẫn cài đặt môi trường. Nhóm đã tự chạy toàn bộ code trên máy, kiểm tra kết quả và chịu trách nhiệm về nội dung nộp.
 
-## 9. Thành viên
-
-| Họ và tên | MSSV | Phụ trách |
-|---|---|---|
-| [Nguyễn Minh Quân] | [24800600783] | Quản lý Git, tổng hợp báo cáo, slide |
-| [Nguyễn Minh Phúc] | [24800600749] | Dữ liệu, EDA, baseline, kiểm tra chạy lại |
-| [Nguyễn Lộc Phước] | [24800600759] | Fine-tune Transformer, demo |
